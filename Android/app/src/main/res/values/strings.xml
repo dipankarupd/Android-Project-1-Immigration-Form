@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Immigration Form</string>
+
+    <string-array name="Countries">
+        <item>"India"</item>
+        <item>"China"</item>
+        <item>"Bhutan"</item>
+        <item>"Malaysia"</item>
+        <item>"Sri lanka"</item>
+        <item>"Kuwait"</item>
+        <item>"Qatar"</item>
+    </string-array>
+
+
+</resources>
